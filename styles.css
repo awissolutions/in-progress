@@ -1,7 +1,9 @@
 /* styles.css */
 *{
-    font-family: inter;
-}
+
+        font-family: 'Inter', Arial, sans-serif;
+      }
+      
 
 /* Background color for body */
 body {
