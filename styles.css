@@ -1,4 +1,7 @@
 /* styles.css */
+*{
+    font-family: inter;
+}
 
 /* Background color for body */
 body {
