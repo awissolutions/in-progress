@@ -1,0 +1,33 @@
+/* styles.css */
+
+/* Background color for body */
+body {
+  background-color: #22272b; /* Tailwind bg-gray-100 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Tailwind min-h-screen */
+}
+
+/* Centered container for the content */
+div {
+  text-align: center;
+  background-color: #ffffff; /* Tailwind bg-white */
+  padding: 2.5rem; /* Tailwind p-10 */
+  border-radius: 0.5rem; /* Tailwind rounded-lg */
+  box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1); /* Tailwind shadow-xl */
+}
+
+/* Heading style */
+h1 {
+  font-size: 2.25rem; /* Tailwind text-4xl */
+  font-weight: 700; /* Tailwind font-bold */
+  color: #3b82f6; /* Tailwind text-blue-500 */
+}
+
+/* Paragraph style */
+p {
+  margin-top: 1rem; /* Tailwind mt-4 */
+  font-size: 1.125rem; /* Tailwind text-lg */
+  color: #4b5563; /* Tailwind text-gray-600 */
+}
